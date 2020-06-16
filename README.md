@@ -11,9 +11,10 @@
 
 ## Execution Instructions:
 - open terminal
-- type: ghci
-- type: :l hask_tut
-- maxlist [3,1,6,4,2,3]      // haskell functions
+- type:
+-	- ghci
+-	- :l hask_tut
+- 	- maxlist [3,1,6,4,2,3]      // haskell functions
 
 
 reference:
